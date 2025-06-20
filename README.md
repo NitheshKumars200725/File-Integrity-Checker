@@ -148,7 +148,4 @@ if __name__ == "__main__":
 
     scan_directory_for_hashes(directory, hash_file)
 
-# Example hash list source:
-# https://virusshare.com/hashes
-# Example usage:
-#   python integrity_checker.py ./documents ./malware_hashes.txt
+
